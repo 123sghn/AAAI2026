@@ -5,7 +5,7 @@
 <p>
 
 <p align="center">
-        🤗 <a href="https://huggingface.co/collections/Qwen/qwen25-vl-6795ffac22b334a837c0f9a5">Demo (Developed based on Gradio)</a>
+        🤗 <a href="https://827b13c2eb46f5f921.gradio.live">Demo (Developed based on Gradio)</a>
 </p>
 
 <h3 align="center">
