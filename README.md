@@ -35,6 +35,11 @@ All datasets used in this work are publicly available and can be found at the li
 
 If you wish to quickly reproduce our work, you may start by downloading the images of the Twitter-2015 dataset from the link above and placing them under the `.data/T15/Images` directory. We provide CoT-augmented data for the T15 dataset.
 
+### Model Download
+- **[[ Qwen/Qwen2.5-VL-7B-Instruct ]](https://huggingface.co/Qwen/Qwen2.5-VL-7B-Instruct)**
+- **[[ Qwen/Qwen2.5-VL-3B-Instruct ]](https://huggingface.co/Qwen/Qwen2.5-VL-3B-Instruct)**
+- **[[ sentence-transformers/all-MiniLM-L6-v2 ]](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2)**
+
 ## Reproduction
 Shell scripts are provided to facilitate a quick and easy start.
 
