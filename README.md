@@ -1,7 +1,7 @@
 # MulCoT-RD
 
 <p align="center">
-    <img src="./assets/logo.png" width="400"/>
+    <img src="https://github.com/123sghn/AAAI2026/blob/main/assets/logo.png" width="400"/>
 </p>
 
 <p align="center">
