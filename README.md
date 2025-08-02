@@ -1,8 +1,8 @@
 # MulCoT-RD
 
-<p align="center">
+<div style="text-align: center;">
     <img src="./assets/logo.png" width="400"/>
-<p>
+</div>
 
 <p align="center">
         🤗 <a href="https://a9a4233fc665496ec2.gradio.live/">Demo (Developed based on Gradio)</a>
